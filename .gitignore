@@ -1,4 +1,6 @@
 .idea
-*.iml;
+*.iml
 out
 *.xml
+src/secret.txt
+fun.txt
